@@ -1,7 +1,7 @@
 
 local CRIC = ChangeRaidInCombat
 local log = FH3095Debug.log
-local PSEUDO_RAID = true
+local PSEUDO_RAID = false
 
 local newRaidSetup = {}
 
