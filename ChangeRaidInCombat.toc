@@ -1,0 +1,14 @@
+## Interface: 80100
+## Title: Change Raid in Combat
+## Notes: Addon to change raid in combat
+## Author: Neoran
+## Version: 1.0.0
+## X-Curse-Project-ID: 317691
+## No-SavedVariables: ChangeRaidInCombat
+
+embed.xml
+
+Debug.lua
+CRIC.lua
+GUI.lua
+Changer.lua

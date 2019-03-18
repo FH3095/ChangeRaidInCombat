@@ -1,0 +1,4 @@
+
+# Exlude libs
+libs/Ace3/**
+libs/lib-st/**
